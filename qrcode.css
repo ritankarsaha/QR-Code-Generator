@@ -18,7 +18,7 @@ body {
     transform: translate(-50%, -50%);
     background: #45b36f4d;
     border-radius: 20px;
-    box-shadow: 20 20 200px rgba(3, 3, 3, 0.1); 
+    box-shadow: 20px 20px 200px rgba(3, 3, 3, 0.1); 
 }
 
 #p1 {
